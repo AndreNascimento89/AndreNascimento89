@@ -1,16 +1,15 @@
-### Hi there 👋
+Olá rede! 👋
 
-<!--
-**AndreNascimento89/AndreNascimento89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 Sou graduando de Engenharia de Software 
+- 🌱 Estudando JAVA
+- 👯 Estou à procura de Estágio/Trainee/JR. para vivênciar na prática os ensinamentos que venho adquirindo.
+- 📫 Contato: andreluizcdz@gmail.com
+- 😄 Pronouns: ele/dele
+- ⚡ Fun fact: também sou advogado pós graduado em Direito Digital e Compliance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/AndreNascimento89">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreNascimento89&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreNascimento89&layout=compact&langs_count=7&theme=dark"/>
+</div>

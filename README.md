@@ -2,7 +2,8 @@ Olá rede! 👋
 
 
 - 🔭 Sou graduando de Engenharia de Software 
-- 🌱 Estudando JAVA
+- 💻 Curso JAVA
+- 🌱 Estudando HTML, CSS e Javascript
 - 👯 Estou à procura de Estágio/Trainee/JR. para vivênciar na prática os ensinamentos que venho adquirindo.
 - 📫 Contato: andreluizcdz@gmail.com
 - 😄 Pronouns: ele/dele
